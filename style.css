@@ -1,0 +1,28 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+p {}
+
+.NASA {
+    background: scroll;
+    background-color: black;
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.NASA h1 {
+    text-align: center;
+    color: #fcfc;
+}
+
+.NASA p {
+    padding: 10px 10px 10px;
+    color: white;
+}
+
+.role {}
